@@ -1,0 +1,2 @@
+# dsa
+This Repo contains the the program i code while practising my DSA skills. 
